@@ -2,7 +2,10 @@
 Photo mosaic generator application
 
 # Screenshot
+- 32x32
 ![Alt text](/screenshot/screenshot.png?raw=true "Screenshot")
+- 16x16
+![Alt text](/screenshot/screenshot_2.png?raw=true "Screenshot")
 
 # Architecture 
 Based on Clean Architecture 
