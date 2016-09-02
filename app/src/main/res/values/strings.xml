@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Photo Mosaic</string>
+    <string name="fetching_tiles">Fetching tiles&#8230;</string>
+</resources>
